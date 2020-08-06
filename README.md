@@ -1,3 +1,5 @@
+# Leonardo Rodrigues
+
 ### Hi there! 👋 Welcome to my profile.
 
 - 📕 I’m currently learning C# and web development(HTML, CSS and JavaScript).
