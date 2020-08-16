@@ -1,9 +1,8 @@
 # Leonardo Rodrigues
 
-### Hi there! 👋 Welcome to my profile.
+### Olá! 👋 Bem vindo ao meu perfil.
 
-- 📕 I’m currently learning C# and web development(HTML, CSS and JavaScript).
-- 👯 I’m looking for an internship.
-- 📫 How to reach me: send an email to leonardo.rodrigues1512200@gmail.com or leonardo.rodrigues18@fatec.sp.gov.br
-- 👦 I have experience with: C, Python, Dart and Flutter, sql.
+- 📕 Atualmente estou aprendendo HTML, CSS e JavaScript.
+- 📫 Como me encontrar: envie um email para leonardo.rodrigues1512200@gmail.com ou leonardo.rodrigues18@fatec.sp.gov.br
+- 👦 Linguagens mais usadas por mim: C, Python, Dart & Flutter.
   
